@@ -1,5 +1,8 @@
 # A-Comparison-of-Economic-Trends-in-Korea-and-the-United-States
 
+### ADD
+git에서 .ipynb 파일이 열리지 않는 문제가 있을 시 [링크](https://nbviewer.jupyter.org/github/HYS1753/A-Comparison-of-Economic-Trends-in-Korea-and-the-United-States/blob/main/A%20Comparison%20of%20Economic%20Trends%20in%20Korea%20and%20the%20United%20States.ipynb)를 통해 확인하실 수 있습니다.
+
 ### Summary
 현재 우리나라의 경제는 COVID-19 바이러스로 인해 민간 소비와 수출이 큰 폭으로 위축되며 0.2% 성장한 후,
 2021년 양호한 회복세를 나타낼 전망이다. 경기 위축과 유가 하락 등이 겹치면서 물가 상승률 또한 낮게
